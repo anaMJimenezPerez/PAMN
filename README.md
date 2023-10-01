@@ -1,1 +1,22 @@
 # PAMN
+
+En este repositorio se van a seubir todas las entregas referentes a la asignatura de Programación de aplicaciones móviles nativas.
+
+### Tecnologías y lenguajes que se usarán:
+
+<img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/-Figma-F76E5F?style=flat&logo=Figma&logoColor=white">
+
+### Informes de prácticas
+Practica 1: Se ha desarrollado un análisis de una página web y de una aplicación móvil siguiendo a WCAG.
+
+[Informe pracctica 1](https://github.com/anaMJimenezPerez/PAMN/blob/main/Accesibilidad_Web_Ana_Maria_Jimenez_Perez.pdf)
+
+Practica 2: Se ha propuesto un primer borrador del diseño de la aplicación que se desarrollará durante el curso.
+
+[Informe pracctica 2](https://github.com/anaMJimenezPerez/PAMN/blob/main/Practica_2_PAMN.pdf)
+
+Practica 3: Se ha realizado un informe en el que se diseña un posible diseño arquitectónico para la aplicación que se desarrollará.
+
+[Informe pracctica 3](https://github.com/anaMJimenezPerez/PAMN/blob/main/Practica_3_PAMN.pdf)
