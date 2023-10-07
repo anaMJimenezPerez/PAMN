@@ -20,3 +20,7 @@ Práctica 2: Se ha propuesto un primer borrador del diseño de la aplicación qu
 Práctica 3: Se ha realizado un informe en el que se diseña un posible diseño arquitectónico para la aplicación que se desarrollará.
 
 [Informe práctica 3](https://github.com/anaMJimenezPerez/PAMN/blob/main/Practica_3_PAMN.pdf)
+
+Práctica 4: Se ha realizado un analisis de 5 supuestos prácticos para los que hay que seleccionar la arquitectura de software más adecuada.
+
+[Informe práctica 4](https://github.com/anaMJimenezPerez/PAMN/blob/main/Practica_4_AnaJimenez.pdf)
