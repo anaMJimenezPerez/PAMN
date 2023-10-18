@@ -21,6 +21,12 @@ Práctica 3: Se ha realizado un informe en el que se diseña un posible diseño 
 
 [Informe práctica 3](https://github.com/anaMJimenezPerez/PAMN/blob/main/Practica_3_PAMN.pdf)
 
-Práctica 4: Se ha realizado un analisis de 5 supuestos prácticos para los que hay que seleccionar la arquitectura de software más adecuada.
+Práctica 4: Se ha realizado un análisis de 5 supuestos prácticos para los que hay que seleccionar la arquitectura de software más adecuada.
 
 [Informe práctica 4](https://github.com/anaMJimenezPerez/PAMN/blob/main/Practica_4_AnaJimenez.pdf)
+
+Práctica 5: Se ha realizado una serie de ejercicios propuestos en el CodeLabs para Android.
+
+[Repositorio GitHub para la práctica 5](https://github.com/anaMJimenezPerez/AndroidColab)
+
+[Informe práctica 5](https://github.com/anaMJimenezPerez/PAMN/blob/main/CodeLabs%20ana%20Jimenez.pdf)
